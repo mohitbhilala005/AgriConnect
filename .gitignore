@@ -14,3 +14,7 @@ $RECYCLE.BIN/
 .vscode/
 .idea/
 scratch/
+
+# Local Interview Prep (Private)
+final_case_study/interview_prep.md
+interview_prep.md

@@ -48,8 +48,7 @@ AgriConnect-PM-Case-Study/
 â”œâ”€â”€ metrics/
 â”‚   â””â”€â”€ product_metrics.md              # North Star Metric, AARRR Funnel & Guardrail KPIs
 â””â”€â”€ final_case_study/
-    â”œâ”€â”€ AgriConnect_Master_Case_Study.md # Complete 20-Section Master PM Case Study
-    â””â”€â”€ interview_prep.md               # Placement Interview Preparation Guide (Q&A Bank)
+    â””â”€â”€ AgriConnect_Master_Case_Study.md # Complete 20-Section Master PM Case Study
 ```
 
 ---

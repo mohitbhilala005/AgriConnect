@@ -1,6 +1,6 @@
 # AgriConnect: Farmer Marketplace & Advisory Strategy
 > **An Evidence-Based Product Management Case Study & Strategy Portfolio**  
-> *Developed from Primary Field Discovery with 92 Farmers across 7 Villages in Central India (IIT Kharagpur)*
+> *Developed from Primary Field Discovery with 92 Farmers across 7 Villages in Madhya-Pradesh India*
 
 ---
 

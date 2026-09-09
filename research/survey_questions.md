@@ -1,6 +1,6 @@
-﻿# AgriConnect: Primary Field Research Questionnaire (37 Parameter Guide)
+# AgriConnect: Primary Field Research Questionnaire (37 Parameter Guide)
 
-Conducted across 7 villages (Chopna, Mau, Lalpur, Lakadiya, Tajpura, Jalalpura, Manakpura) in Madhya Pradesh.
+Conducted across 7 villages (Chopna, Mau, Lalpur, Lakadiya, Tajpura, Jalalpura, Manakpura) in Central India.
 
 ## Section A: Demographic & Household Context
 1. **Farmer ID** (Unique Identifier F001-F092)
@@ -35,7 +35,7 @@ Conducted across 7 villages (Chopna, Mau, Lalpur, Lakadiya, Tajpura, Jalalpura, 
 24. **Did Agribusiness Activity Increase Net Household Income?** (Yes / No)
 25. **Willingness to Start a New Agribusiness / Diversified Venture** (Yes / No)
 26. **Preferred Type of Agribusiness** (Mushroom, Vertical Farming, Poultry, Vegetables, Dairy, Aeroponics, Value Addition, Goat Farming, Hydroponics)
-27. **Maximum Investable Capital for Secondary Enterprise** (<â‚¹5,000, â‚¹5k-10k, >â‚¹10k)
+27. **Maximum Investable Capital for Secondary Enterprise** (<Rs. 5,000, Rs. 5k-10k, >Rs. 10k)
 28. **Available Indoor / Non-Crop Space for Micro-Venture** (sq.ft)
 
 ## Section E: Pain Points, Structural Bottlenecks & Required Support

@@ -1,12 +1,16 @@
-﻿# System & OS
+# OS generated files
 Thumbs.db
+ehthumbs.db
 Desktop.ini
+$RECYCLE.BIN/
 .DS_Store
 
-# Office / Excel temporary lock files
+# Office lock files
 ~$*.xlsx
-~$*.xls
-
-# Temporary files
+~$*.docx
 *.tmp
-*.log
+
+# Local IDE / Scratch
+.vscode/
+.idea/
+scratch/

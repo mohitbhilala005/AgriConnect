@@ -1,11 +1,11 @@
-﻿# AgriConnect: Farmer Marketplace & Advisory Strategy
+# AgriConnect: Farmer Marketplace & Advisory Strategy
 > **An Evidence-Based Product Management Case Study & Strategy Portfolio**  
 > *Developed from Primary Field Discovery with 92 Farmers across 7 Villages in Central India (IIT Kharagpur)*
 
 ---
 
 ## Executive Summary
-**AgriConnect** is a mobile-first agricultural micro-enterprise incubation platform and marketplace designed for Indiaâ€™s 120+ million small and marginal farmers (holding <5 acres). Built upon rigorous primary field research, AgriConnect bridges the **68.5 percentage point drop-off between agribusiness intent (87.0%) and execution (18.5%)** by delivering zero-friction vernacular blueprints, certified <â‚¹3,500 starter input kits, and guaranteed pre-harvest local B2B buyer off-take.
+**AgriConnect** is a mobile-first agricultural micro-enterprise incubation platform and marketplace designed for Indiaâ€™s 120+ million small and marginal farmers (holding <5 acres). Built upon rigorous primary field research, AgriConnect bridges the **68.5 percentage point drop-off between agribusiness intent (87.0%) and execution (18.5%)** by delivering zero-friction vernacular blueprints, certified <Rs. 3,500 starter input kits, and guaranteed pre-harvest local B2B buyer off-take.
 
 ---
 
@@ -54,11 +54,13 @@ AgriConnect-PM-Case-Study/
 
 ---
 
-## Key Portfolio CV Bullets (Placement Aligned)
-1. **On-Ground User Discovery**: Conducted primary field research with **92 farmers across 7 villages** evaluating **28 agro-economic parameters**; discovered a **68.5% intention-to-action chasm** in agri-diversification with a 56.5% training barrier.
-2. **Product Strategy & PRD**: Architected 3 research-backed user personas across literacy tiers, empathy maps, and an exhaustive PRD featuring voice-first vernacular UX for a 38.0% non-literate cohort.
-3. **RICE Feature Prioritization**: Prioritized 10 candidate features via RICE scoring, establishing a phased 3-horizon MVP roadmap that de-risked working capital fear (<â‚¹3,500 starter kits).
-4. **Metrics & Usability Framework**: Defined an AARRR product analytics framework with a value-aligned North Star Metric (*Net Monthly Farmer Income*), conducting usability testing (N=10) that boosted SUS from 78.5 to 88.0.
+## Key Portfolio CV Bullets (Placement Aligned - Strictly 137 Characters Each)
+
+* `Led user field research across 7 villages with 92 farmers on 28 parameters; uncovered a 68.5% intent-action chasm & 56.5% training block.` (137 chars)
+* `Formulated product strategy around 3 personas & a PRD, architecting a voice-first vernacular UX tailored for a 38.0% non-literate cohort.` (137 chars)
+* `Prioritized 10 features via RICE scoring to scope a 3-horizon MVP roadmap, delivering <Rs. 3,500 starter kits & B2B pre-harvest off-take.` (137 chars)
+* `Led usability testing with 10 farmers across 7 tasks; iterated 5 core UX workflows, raising the System Usability Scale from 78.5 to 88.0.` (137 chars)
+* `Built an AARRR analytics framework with a value-aligned North Star Metric (>Rs 8,500/mo net profit) & 4 vital operational guardrail KPIs.` (137 chars)
 
 ---
 

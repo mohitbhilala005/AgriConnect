@@ -1,4 +1,4 @@
-﻿# AgriConnect: Key Quantitative Findings & Statistical Insights
+# AgriConnect: Key Quantitative Findings & Statistical Insights
 
 ## 1. Top Quantitative Takeaways
 1. **The 68.5% Agribusiness Chasm**:

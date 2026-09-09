@@ -1,25 +1,25 @@
-﻿# AgriConnect: User Personas (Research-Backed)
+# AgriConnect: User Personas (Research-Backed)
 
 All 3 personas are strictly derived from empirical data patterns in our 92-farmer field study across 7 villages.
 
 ---
 
-## Persona 1: "The Aspirational Young Micro-Entrepreneur" â€” Ramesh Ahirwar
+## Persona 1: "The Aspirational Young Micro-Entrepreneur" - Ramesh Ahirwar
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  RAMESH AHIRWAR (28 years old) â€” "I want to turn 150 sq.ft into a business" â”‚
-â”‚  Village: Chopna / Jalalpura | Education: Matriculation (Class 12)          â”‚
-â”‚  Land: 1.5 Acres (Marginal) | Experience: 8 Years | Tech Aware: Yes (Social)â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
++-----------------------------------------------------------------------------+
+|  RAMESH AHIRWAR (28 years old) - "I want to turn 150 sq.ft into a business" |
+|  Village: Chopna / Jalalpura | Education: Matriculation (Class 12)          |
+|  Land: 1.5 Acres (Marginal) | Experience: 8 Years | Tech Aware: Yes (Social)|
++-----------------------------------------------------------------------------+
 ```
 
 ### 1. Profile & Demographics
-* **Age**: 28 years old (Segment: Young Farmer, <30 yrs â€” 10.9% of survey)
+* **Age**: 28 years old (Segment: Young Farmer, <30 yrs - 10.9% of survey)
 * **Location**: Chopna village, Madhya Pradesh
-* **Education**: 12th Pass / Matriculation (Literate segment â€” 62.0% of survey)
+* **Education**: 12th Pass / Matriculation (Literate segment - 62.0% of survey)
 * **Family Context**: Lives with parents, wife, and 1 child; primary future earner
-* **Farming Context**: 1.5 acres of ancestral land; mixed cropping (Wheat, Soyabean, Green Gram); open-well irrigation; annual production ~40â€“50 Qtl.
+* **Farming Context**: 1.5 acres of ancestral land; mixed cropping (Wheat, Soyabean, Green Gram); open-well irrigation; annual production ~40-50 Qtl.
 
 ### 2. Research Data Backing
 * **Exact Survey Evidence**: Represents the **100% willing young cohort (<45 yrs)**.
@@ -29,13 +29,13 @@ All 3 personas are strictly derived from empirical data patterns in our 92-farme
   * `F003` (Age 33, 2.5 ac, Jalalpura, Matriculate, owns tractor, willing to do Mushroom & Vertical Farming).
 
 ### 3. Goals & Motivations
-* **Primary Goal**: Establish a steady secondary cash-flow stream (â‚¹10,000â€“â‚¹15,000/month) that does not depend on seasonal rainfall or volatile staple crop prices.
+* **Primary Goal**: Establish a steady secondary cash-flow stream (Rs. 10,000-15,000/month) that does not depend on seasonal rainfall or volatile staple crop prices.
 * **Aspiration**: Wants to become a progressive agri-entrepreneur rather than migrating to a city for low-wage construction work.
 * **Agribusiness Interest**: **Mushroom Cultivation & Vertical Farming / Polyhouse** (Top choices among 38.8% of willing respondents).
 
 ### 4. Pain Points & Barriers
 * **Lack of Structured Execution Know-how**: Watches YouTube videos but finds them disjointed, contradictory, and lacking localized climate parameters (humidity/temperature control).
-* **Capital Anxiety**: Has very small savings (~â‚¹5,000â€“â‚¹8,000); cannot afford trial-and-error mistakes (13.0% cite money barrier).
+* **Capital Anxiety**: Has very small savings (~Rs. 5,000-8,000); cannot afford trial-and-error mistakes (13.0% cite money barrier).
 * **Zero Institutional Support**: 98.9% receive zero government extension; no local expert to ask when crops show mold or yellowing.
 
 ### 5. Tech Usage & Information Habits
@@ -44,28 +44,28 @@ All 3 personas are strictly derived from empirical data patterns in our 92-farme
 * **Preferred Content**: Visual video demonstrations in simple Hindi/Malvi dialect; dislikes long dense text.
 
 ### 6. AgriConnect Product Opportunity
-* **Bite-sized "Starter Kit Blueprint"**: Step-by-step 3-minute video guides on how to start Oyster Mushroom in a 100 sq.ft spare room with <â‚¹4,000 investment.
+* **Bite-sized "Starter Kit Blueprint"**: Step-by-step 3-minute video guides on how to start Oyster Mushroom in a 100 sq.ft spare room with <Rs. 4,000 investment.
 * **Daily Actionable Task Planner**: Daily push notifications (*"Day 12: Maintain 85% humidity, spray water twice today"*).
 * **Direct Spawn & Input Procurement**: Certified mushroom spawn delivery and guaranteed buyer off-take price.
 
 ---
 
-## Persona 2: "The Traditional Marginal Squeezer" â€” Babulal Lodhi
+## Persona 2: "The Traditional Marginal Squeezer" - Babulal Lodhi
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  BABULAL LODHI (48 years old) â€” "I cannot afford to risk my family's bread" â”‚
-â”‚  Village: Chopna / Lalpur | Education: Illiterate (Non-literate cohort)     â”‚
-â”‚  Land: 2.5 Acres (Small/Marginal) | Experience: 30 Years | Tech: No        â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
++-----------------------------------------------------------------------------+
+|  BABULAL LODHI (48 years old) - "I cannot afford to risk my family's bread" |
+|  Village: Chopna / Lalpur | Education: Illiterate (Non-literate cohort)     |
+|  Land: 2.5 Acres (Small/Marginal) | Experience: 30 Years | Tech: No         |
++-----------------------------------------------------------------------------+
 ```
 
 ### 1. Profile & Demographics
-* **Age**: 48 years old (Segment: Mid-Career, 46â€“60 yrs â€” 16.3% of survey)
+* **Age**: 48 years old (Segment: Mid-Career, 46-60 yrs - 16.3% of survey)
 * **Location**: Lalpur / Chopna, Madhya Pradesh
-* **Education**: Illiterate (Illiterate cohort â€” 38.0% of survey)
+* **Education**: Illiterate (Illiterate cohort - 38.0% of survey)
 * **Family Context**: Sole breadwinner for a family of 6; 2 school-going children
-* **Farming Context**: 2.5 acres of fragmented land; mixed cropping (Wheat, Soyabean, Gram); open well (dries up in March); annual production ~55â€“65 Qtl.
+* **Farming Context**: 2.5 acres of fragmented land; mixed cropping (Wheat, Soyabean, Gram); open well (dries up in March); annual production ~55-65 Qtl.
 
 ### 2. Research Data Backing
 * **Exact Survey Evidence**: Represents the **38.0% illiterate segment** and the **76.1% smallholder base (<5 acres)** facing working capital constraints (**29.3% cite "Money"**).
@@ -96,25 +96,25 @@ All 3 personas are strictly derived from empirical data patterns in our 92-farme
 
 ---
 
-## Persona 3: "The Progressive Commercial Diversifier" â€” Virendra Patel
+## Persona 3: "The Progressive Commercial Diversifier" - Virendra Patel
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  VIRENDRA PATEL (34 years old) â€” "I have the volume, but middlemen take my margin" â”‚
-â”‚  Village: Lakadiya / Tajpura | Education: Graduate / B.Com                 â”‚
-â”‚  Land: 7.5 Acres (Semi-Medium) | Experience: 16 Years | Tech: Yes (Solar)   â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
++-----------------------------------------------------------------------------+
+|  VIRENDRA PATEL (34 years old) - "I have the volume, but middlemen take margin" |
+|  Village: Lakadiya / Tajpura | Education: Graduate / B.Com                 |
+|  Land: 7.5 Acres (Semi-Medium) | Experience: 16 Years | Tech: Yes (Solar)   |
++-----------------------------------------------------------------------------+
 ```
 
 ### 1. Profile & Demographics
-* **Age**: 34 years old (Segment: Prime Working, 30â€“45 yrs â€” 58.7% of survey)
+* **Age**: 34 years old (Segment: Prime Working, 30-45 yrs - 58.7% of survey)
 * **Location**: Lakadiya village, Madhya Pradesh
-* **Education**: Graduate (Graduate segment â€” 9.8% of survey)
+* **Education**: Graduate (Graduate segment - 9.8% of survey)
 * **Family Context**: Multi-generational farming family; manages farming as a commercial enterprise
-* **Farming Context**: 7.5 acres; mixed cropping (Wheat, Soyabean, Coriander, Green Gram) + Dairy/Polyhouse; river/borewell irrigation; annual production ~180â€“220 Qtl.
+* **Farming Context**: 7.5 acres; mixed cropping (Wheat, Soyabean, Coriander, Green Gram) + Dairy/Polyhouse; river/borewell irrigation; annual production ~180-220 Qtl.
 
 ### 2. Research Data Backing
-* **Exact Survey Evidence**: Represents the **Semi-Medium tier (5â€“10 acres, 20.7%)** where **Market Support emerges as the #1 problem (21.1%)**.
+* **Exact Survey Evidence**: Represents the **Semi-Medium tier (5-10 acres, 20.7%)** where **Market Support emerges as the #1 problem (21.1%)**.
 * **Direct Matching Survey IDs**:
   * `F065` (Age 32, 5.5 ac, Lakadiya, Graduate, uses Solar System, tech affordable, income increased from Dairy, willing to do Vertical Farming, #1 problem: Market Support).
   * `F066` (Age 35, 8.2 ac, Lakadiya, High school, uses Solar System, doing Poultry, income increased, willing to do Vertical Farming, #1 problem: Market Support).
@@ -122,7 +122,7 @@ All 3 personas are strictly derived from empirical data patterns in our 92-farme
   * `F071` (Age 32, 8.0 ac, Tajpura, Middle school, production 200 Qtl, doing Dairy, income increased, willing to do Vertical Farming, #1 problem: Market Support).
 
 ### 3. Goals & Motivations
-* **Primary Goal**: Scale up high-value polyhouse vegetable / dairy operations and bypass local mandi cartels to capture 25â€“40% higher realization.
+* **Primary Goal**: Scale up high-value polyhouse vegetable / dairy operations and bypass local mandi cartels to capture 25-40% higher realization.
 * **Motivation**: Maximize land productivity with commercial tech (solar drip, vertical farming structures, contract dairy).
 
 ### 4. Pain Points & Barriers

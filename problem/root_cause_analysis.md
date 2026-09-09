@@ -1,39 +1,33 @@
-﻿# AgriConnect: Root Cause Analysis (5 Whys & Workflow)
+# AgriConnect: Root Cause Analysis (5 Whys Framework)
 
-## 1. The 5 Whys Analysis
+## 1. 5 Whys Root Cause Tree
 
 ```
-[Symptom] Small and marginal farmers remain trapped in low-income, debt-heavy traditional mono-cropping despite wanting higher earnings.
-  â”‚
-  â–¼
-[Why 1?] Why don't farmers adopt high-margin agribusinesses (Mushroom, Polyhouse, Dairy, Poultry)?
-  â†³ Because 87% want to, but only 18.5% actually do (56.5% cite lack of awareness, training, and step-by-step guidance).
-  â”‚
-  â–¼
-[Why 2?] Why don't farmers receive training and structured knowledge from existing channels?
-  â†³ Because government extension services fail to reach them (98.9% received zero government support), and formal training centers are geographically distant and inaccessible.
-  â”‚
-  â–¼
-[Why 3?] Why can't farmers learn independently using digital tools?
-  â†³ Because existing platforms provide generic, highly academic text in English/formal Hindi, whereas 38% of farmers are illiterate and require hyper-visual, audio-visual, vernacular guidance.
-  â”‚
-  â–¼
-[Why 4?] Why doesn't informal knowledge (YouTube/peers) lead to successful adoption?
-  â†³ Because YouTube videos lack localized context, step-by-step SOPs, verified input sourcing (spores, seeds, equipment), and cost-benefit breakdowns, creating high fear of capital loss (13% cite capital constraints).
-  â”‚
-  â–¼
-[Why 5 â€” ROOT CAUSE]
-  â†³ **There is no integrated, vernacular, zero-friction platform that bridges the complete loop: providing localized step-by-step micro-enterprise advisory, affordable starter input access, and guaranteed local buyer linkages.**
+PROBLEM: Small and marginal farmers remain trapped in low-income staple farming and fail to adopt profitable agribusinesses.
+â”‚
+â”œâ”€â”€ WHY 1: Why don't farmers start high-margin agribusinesses (mushrooms, poultry, polyhouses)?
+â”‚   â””â”€â”€ Because 68.5% of willing farmers abandon the idea before making their first investment.
+â”‚
+â”œâ”€â”€ WHY 2: Why do they abandon the idea before taking action?
+â”‚   â””â”€â”€ Because 56.5% cite a lack of actionable training, know-how, and accessible resources.
+â”‚
+â”œâ”€â”€ WHY 3: Why don't existing channels (YouTube, Agro-dealers, Government) solve this training gap?
+â”‚   â””â”€â”€ Because 98.9% receive zero government extension aid, and YouTube videos offer theoretical advice without daily operational guidance or climate calibration.
+â”‚
+â”œâ”€â”€ WHY 4: Why can't farmers experiment through trial-and-error on their own?
+â”‚   â””â”€â”€ Because 76.1% own <5 acres and 29.3% face acute working capital scarcity; a single crop loss wipes out household food security.
+â”‚
+â””â”€â”€ WHY 5 (ROOT CAUSE):
+    â””â”€â”€ The agricultural ecosystem lacks a localized, voice-first micro-enterprise incubation platform that bundles bite-sized daily execution SOPs, certified low-cost starter kits (<Rs. 3,500), and guaranteed pre-harvest local B2B buyer off-take.
 ```
 
 ---
 
-## 2. Observed Evidence vs. Product Hypotheses
+## 2. Core Hypothesis Matrix
 
-| Dimension | Observed Evidence (Survey Verified) | Product Hypothesis (To Validate in MVP) |
-|:---|:---|:---|
-| **User Intent** | 87.0% (80/92) want to start agribusiness; 100% of <45 age group. | Farmers will actively complete guided digital micro-courses if delivered via vernacular audio-visual modules. |
-| **Adoption Barrier** | 56.5% (52/92) fail to adopt due to lack of training/awareness; 13.0% due to capital. | Breaking complex agribusiness setups into bite-sized daily tasks reduces perceived risk and drives execution. |
-| **Economic Impact** | 100% of current agribusiness practitioners (17/17) experienced income increase. | Smallholders can increase monthly household income by 25â€“40% within 90 days of starting mushroom/vegetable farming. |
-| **UX & Accessibility** | 38.0% illiterate; 57.1% tech-aware farmers use Social Media (YouTube/WhatsApp). | Voice search, vernacular video cards, and iconographic UI will enable illiterate farmers to navigate independently without friction. |
-| **Market Access** | 21.7% request market support / training & market support; fear of unsold harvest. | Pre-harvest buyer matching and collective pooling reduce off-take risk and incentivize adoption. |
+| # | Hypothesis | Evidence from Field Survey (N=92) | Product Solution Vector |
+|:---|:---|:---|:---|
+| **H1** | Farmers will adopt high-margin crops if upfront investment is under Rs. 3,500 with COD. | 29.3% cite capital distress; 13.0% cite money as adoption barrier. | 1-Click Certified Starter Kits with Cash-on-Delivery. |
+| **H2** | Actionable daily task checklists reduce crop failure rate to <6%. | 56.5% cite lack of structured training as primary blocker. | Day-by-Day Visual SOP Task Calendar with voice narration. |
+| **H3** | Guaranteed pre-harvest buyer commitments eliminate market risk. | 21.7% cite market support demand; 100% of current practitioners gained income. | Pre-Harvest Local B2B Buyer Matchmaking. |
+| **H4** | Voice-first vernacular UX enables 100% task completion among non-literate users. | 38.0% of survey respondents are illiterate. | Speech-to-text in Hindi/Malvi + Auto-narration. |

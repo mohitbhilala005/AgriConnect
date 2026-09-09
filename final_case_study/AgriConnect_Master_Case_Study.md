@@ -17,7 +17,7 @@ Primary field discovery was conducted across **7 rural villages** in Central Ind
 ---
 
 ## 03 - User Insights
-1. **The Intention-to-Action Chasm (87.0% vs. 18.5%)**: 87.0% (80/92) want to start an agribusiness (100% under 45 yrs), yet only 18.5% (17/92) currently do so-revealing a massive **68.5% conversion drop-off**.
+1. **The Intention-to-Action Chasm (87.0% vs. 18.5%)**: 87.0% (80/92) want to start an agribusiness (100% under 45 yrs), yet only 18.5% (17/92) currently do so - revealing a massive **68.5% conversion drop-off**.
 2. **100% Proven Economic ROI**: All 17 farmers currently practicing agribusiness reported increased household income.
 3. **The Knowledge Void as Core Bottleneck**: 56.5% (52/92) cite lack of training and awareness as the primary reason stopping adoption.
 4. **Institutional Vacuum**: 98.9% received zero government assistance, relying on informal peer networks.
@@ -152,5 +152,5 @@ Moderated in-person testing with **10 rural farmers** across 7 tasks:
 
 ## 20 - Learnings & PM Reflection
 1. **Field Research Over Assumptions**: The biggest barrier in rural agtech is not lack of ambition or capital, but the absence of chunked, actionable execution guidance.
-2. **Accessibility Dictates Conversion**: In a 38% non-literate demographic, voice-first and auto-play audio is not a feature-it is the foundational interface.
+2. **Accessibility Dictates Conversion**: In a 38% non-literate demographic, voice-first and auto-play audio is not a feature - it is the foundational interface.
 3. **Accountability Wins Trust**: Advisory without market linkage leads to distress sales; closing the loop from starter kit to buyer payout creates an unassailable moat.

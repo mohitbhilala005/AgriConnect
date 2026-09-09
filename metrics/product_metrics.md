@@ -16,36 +16,36 @@ $$\text{North Star Metric} = \textbf{Net Additional Monthly Income Generated per
 ```
 +---------------------------------------------------------------------------------------------------+
 | 1. ACQUISITION (Top of Funnel)                                                                    |
-| â€¢ Village Household Penetration Rate: >=40% of smallholders in target village                     |
-| â€¢ Customer Acquisition Cost (CAC): <=Rs. 120 per activated farmer (via village micro-events)      |
+| * Village Household Penetration Rate: >=40% of smallholders in target village                     |
+| * Customer Acquisition Cost (CAC): <=Rs. 120 per activated farmer (via village micro-events)      |
 +---------------------------------------------------------------------------------------------------+
-                                                 â”‚
-                                                 â–¼
+                                                 |
+                                                 v
 +---------------------------------------------------------------------------------------------------+
 | 2. ACTIVATION (First Value Experience)                                                            |
-| â€¢ Discovery-to-Kit Conversion: >=25% of ROI calculator users order a starter kit within 7 days    |
-| â€¢ Day 1 Onboarding Completion: >=90% of kit buyers complete their Day 1 bag setup SOP task        |
+| * Discovery-to-Kit Conversion: >=25% of ROI calculator users order a starter kit within 7 days    |
+| * Day 1 Onboarding Completion: >=90% of kit buyers complete their Day 1 bag setup SOP task        |
 +---------------------------------------------------------------------------------------------------+
-                                                 â”‚
-                                                 â–¼
+                                                 |
+                                                 v
 +---------------------------------------------------------------------------------------------------+
 | 3. RETENTION (Sustained Adherence & Reorder)                                                      |
-| â€¢ Daily SOP Task Adherence: >=80% of active growers log daily tasks within 24 hours               |
-| â€¢ Cycle 2 Enterprise Reorder Rate: >=70% reorder spawn/inputs for a second production cycle       |
+| * Daily SOP Task Adherence: >=80% of active growers log daily tasks within 24 hours               |
+| * Cycle 2 Enterprise Reorder Rate: >=70% reorder spawn/inputs for a second production cycle       |
 +---------------------------------------------------------------------------------------------------+
-                                                 â”‚
-                                                 â–¼
+                                                 |
+                                                 v
 +---------------------------------------------------------------------------------------------------+
 | 4. REVENUE & UNIT ECONOMICS (Platform Monetization)                                               |
-| â€¢ Starter Kit Gross Margin: 18% - 22% on certified input procurement                              |
-| â€¢ B2B Marketplace Take-Rate: 3.5% - 5.0% on completed wholesale off-take transactions             |
+| * Starter Kit Gross Margin: 18% - 22% on certified input procurement                              |
+| * B2B Marketplace Take-Rate: 3.5% - 5.0% on completed wholesale off-take transactions             |
 +---------------------------------------------------------------------------------------------------+
-                                                 â”‚
-                                                 â–¼
+                                                 |
+                                                 v
 +---------------------------------------------------------------------------------------------------+
 | 5. REFERRAL & COMMUNITY VIRALITY (Organic Expansion)                                              |
-| â€¢ Rural Net Promoter Score (NPS): >=65                                                            |
-| â€¢ Viral Coefficient (K-factor): K >= 0.45 (each successful grower brings ~0.5 neighbors into loop)|
+| * Rural Net Promoter Score (NPS): >=65                                                            |
+| * Viral Coefficient (K-factor): K >= 0.45 (each successful grower brings ~0.5 neighbors into loop)|
 +---------------------------------------------------------------------------------------------------+
 ```
 

@@ -1,7 +1,7 @@
 # AgriConnect: Product Strategy & Strategic Pillars
 
 ## 1. Vision & Mission
-* **Vision**: To become Indiaâ€™s definitive rural agricultural incubation platform, transforming 10 million small and marginal farming households into resilient, high-income agri-entrepreneurs.
+* **Vision**: To become India's definitive rural agricultural incubation platform, transforming 10 million small and marginal farming households into resilient, high-income agri-entrepreneurs.
 * **Mission**: To bridge the 68.5% intention-to-action chasm by delivering zero-friction vernacular execution blueprints, certified low-cost starter kits (<Rs. 3,500), and guaranteed pre-harvest local B2B buyer linkages.
 
 ---

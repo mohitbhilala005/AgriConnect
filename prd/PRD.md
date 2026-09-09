@@ -8,14 +8,14 @@
 
 ## 1. Product Overview & Executive Summary
 
-**AgriConnect** is a mobile-first micro-enterprise incubation platform and marketplace tailored for Indiaâ€™s small and marginal farmers (holding <5 acres). The platform bridges the massive **68.5 percentage point drop-off between agribusiness intention (87.0%) and execution (18.5%)** by providing zero-friction vernacular execution blueprints, curated low-cost starter kits (<Rs. 3,500), and guaranteed local B2B buyer off-take linkages.
+**AgriConnect** is a mobile-first micro-enterprise incubation platform and marketplace tailored for India's small and marginal farmers (holding <5 acres). The platform bridges the massive **68.5 percentage point drop-off between agribusiness intention (87.0%) and execution (18.5%)** by providing zero-friction vernacular execution blueprints, curated low-cost starter kits (<Rs. 3,500), and guaranteed local B2B buyer off-take linkages.
 
 ---
 
 ## 2. Target Users & Core Personas
-* **Primary (P0)**: Ramesh Ahirwar (28 yrs, 1.5 ac, Matriculate) â€” Seeks Rs. 10k-15k/mo secondary income; needs structured, risk-free execution blueprints.
-* **Secondary (P1)**: Babulal Lodhi (48 yrs, 2.5 ac, Illiterate) â€” Risk-averse marginal farmer; requires 100% voice assistance and pictorial guidance.
-* **Commercial (P2)**: Virendra Patel (34 yrs, 7.5 ac, Graduate) â€” Progressive farmer needing direct B2B market off-take.
+* **Primary (P0)**: Ramesh Ahirwar (28 yrs, 1.5 ac, Matriculate) - Seeks Rs. 10k-15k/mo secondary income; needs structured, risk-free execution blueprints.
+* **Secondary (P1)**: Babulal Lodhi (48 yrs, 2.5 ac, Illiterate) - Risk-averse marginal farmer; requires 100% voice assistance and pictorial guidance.
+* **Commercial (P2)**: Virendra Patel (34 yrs, 7.5 ac, Graduate) - Progressive farmer needing direct B2B market off-take.
 
 ---
 
@@ -73,7 +73,7 @@
 * **Acceptance Criteria (Gherkin)**:
   ```gherkin
   Scenario: Pre-harvest buyer match confirmation
-    Given the farmerâ€™s crop reaches Day 38 of the 45-day cycle
+    Given the farmer's crop reaches Day 38 of the 45-day cycle
     When the platform triggers an automated buyer auction within 40 km
     Then a verified B2B buyer (e.g., "Saffron Restaurant, District Center") accepts the lot at Rs. 140/kg
     And the farmer receives an audio voice call confirming pickup time and guaranteed payment slip.

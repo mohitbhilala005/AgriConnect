@@ -4,21 +4,21 @@
 
 ```
 PROBLEM: Small and marginal farmers remain trapped in low-income staple farming and fail to adopt profitable agribusinesses.
-â”‚
-â”œâ”€â”€ WHY 1: Why don't farmers start high-margin agribusinesses (mushrooms, poultry, polyhouses)?
-â”‚   â””â”€â”€ Because 68.5% of willing farmers abandon the idea before making their first investment.
-â”‚
-â”œâ”€â”€ WHY 2: Why do they abandon the idea before taking action?
-â”‚   â””â”€â”€ Because 56.5% cite a lack of actionable training, know-how, and accessible resources.
-â”‚
-â”œâ”€â”€ WHY 3: Why don't existing channels (YouTube, Agro-dealers, Government) solve this training gap?
-â”‚   â””â”€â”€ Because 98.9% receive zero government extension aid, and YouTube videos offer theoretical advice without daily operational guidance or climate calibration.
-â”‚
-â”œâ”€â”€ WHY 4: Why can't farmers experiment through trial-and-error on their own?
-â”‚   â””â”€â”€ Because 76.1% own <5 acres and 29.3% face acute working capital scarcity; a single crop loss wipes out household food security.
-â”‚
-â””â”€â”€ WHY 5 (ROOT CAUSE):
-    â””â”€â”€ The agricultural ecosystem lacks a localized, voice-first micro-enterprise incubation platform that bundles bite-sized daily execution SOPs, certified low-cost starter kits (<Rs. 3,500), and guaranteed pre-harvest local B2B buyer off-take.
+|
++-- WHY 1: Why don't farmers start high-margin agribusinesses (mushrooms, poultry, polyhouses)?
+|   +-- Because 68.5% of willing farmers abandon the idea before making their first investment.
+|
++-- WHY 2: Why do they abandon the idea before taking action?
+|   +-- Because 56.5% cite a lack of actionable training, know-how, and accessible resources.
+|
++-- WHY 3: Why don't existing channels (YouTube, Agro-dealers, Government) solve this training gap?
+|   +-- Because 98.9% receive zero government extension aid, and YouTube videos offer theoretical advice without daily operational guidance or climate calibration.
+|
++-- WHY 4: Why can't farmers experiment through trial-and-error on their own?
+|   +-- Because 76.1% own <5 acres and 29.3% face acute working capital scarcity; a single crop loss wipes out household food security.
+|
++-- WHY 5 (ROOT CAUSE):
+    +-- The agricultural ecosystem lacks a localized, voice-first micro-enterprise incubation platform that bundles bite-sized daily execution SOPs, certified low-cost starter kits (<Rs. 3,500), and guaranteed pre-harvest local B2B buyer off-take.
 ```
 
 ---

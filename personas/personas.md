@@ -45,7 +45,7 @@ All 3 personas are strictly derived from empirical data patterns in our 92-farme
 
 ### 6. AgriConnect Product Opportunity
 * **Bite-sized "Starter Kit Blueprint"**: Step-by-step 3-minute video guides on how to start Oyster Mushroom in a 100 sq.ft spare room with <Rs. 4,000 investment.
-* **Daily Actionable Task Planner**: Daily push notifications (*"Day 12: Maintain 85% humidity, spray water twice today"*).
+* **Daily Actionable Task Planner**: Daily push notifications ("Day 12: Maintain 85% humidity, spray water twice today").
 * **Direct Spawn & Input Procurement**: Certified mushroom spawn delivery and guaranteed buyer off-take price.
 
 ---

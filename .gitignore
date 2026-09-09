@@ -1,0 +1,12 @@
+﻿# System & OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Office / Excel temporary lock files
+~$*.xlsx
+~$*.xls
+
+# Temporary files
+*.tmp
+*.log

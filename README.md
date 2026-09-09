@@ -53,16 +53,8 @@ AgriConnect-PM-Case-Study/
 
 ---
 
-## Key Portfolio CV Bullets (Placement Aligned - Strictly 137 Characters Each)
-
-* `Led user field research across 7 villages with 92 farmers on 28 parameters; uncovered a 68.5% intent-action chasm & 56.5% training block.` (137 chars)
-* `Formulated product strategy around 3 personas & a PRD, architecting a voice-first vernacular UX tailored for a 38.0% non-literate cohort.` (137 chars)
-* `Prioritized 10 features via RICE scoring to scope a 3-horizon MVP roadmap, delivering <Rs. 3,500 starter kits & B2B pre-harvest off-take.` (137 chars)
-* `Led usability testing with 10 farmers across 7 tasks; iterated 5 core UX workflows, raising the System Usability Scale from 78.5 to 88.0.` (137 chars)
-* `Built an AARRR analytics framework with a value-aligned North Star Metric (>Rs 8,500/mo net profit) & 4 vital operational guardrail KPIs.` (137 chars)
-
----
-
 ## Contact & Credits
-* **Author**: Agricultural & Food Engineering Undergraduate, Indian Institute of Technology (IIT) Kharagpur
+* **Author**: Mohit Bhilala
+              Agricultural & Food Engineering Undergraduate,
+              Indian Institute of Technology (IIT) Kharagpur
 * **Domain**: Product Management | Agritech Strategy | Rural UX Research
